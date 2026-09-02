@@ -7,7 +7,7 @@ Instalasi SLiMS (Senayan Library Management System) di WSL (Windows Subsystem fo
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/muzub/slims-wsl-install.git
+git clone https://github.com/adeism/slims-wsl-install.git
 cd slims-wsl-install
 ```
 
